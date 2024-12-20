@@ -3,6 +3,8 @@
 ¡Bienvenidos al repositorio oficial del **Laboratorio de Sistemas Inteligentes Robotizados (Labsir UN)**!  
 Somos un espacio académico e interdisciplinario de la **Universidad Nacional de Colombia**, enfocado en el desarrollo de soluciones robotizadas avanzadas y la investigación en robótica de manipuladores.
 
+<img src="https://github.com/labsir-un/.github/blob/main/unal.jpg" /> 
+
 ---
 
 ## 🌟 ¿Quiénes somos?  
